@@ -1,5 +1,5 @@
 FROM hilschernetpi/netpi-raspbian
 
-COPY HelloWorld.py /HelloWorld.py
+COPY PythonSkript.py /PythonSkript.py
 
-#CMD ["pyhon", "HelloWorld.py"]
+#CMD ["pyhon", "PythonSkript.py"]
