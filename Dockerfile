@@ -1,4 +1,4 @@
-FROM alpine
+FROM hilschernetpi/netpi-raspbian
 
 COPY PythonSkript.py /PythonSkript.py
 
